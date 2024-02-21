@@ -15,7 +15,7 @@ This project pioneers advancements in Natural Language Processing (NLP) by intro
 
 
 
-## EDA
+## EDA (Exploratory Data Analysis)
 ![Visualizations of Labels for different datasets](https://github.com/amiruzzaman1/Idiom-Detection/assets/68743925/b23fb076-d1f3-47ab-b9e2-f030ce8da87f)
 
 *Fig1 : Visualizations of Labels for different datasets*
