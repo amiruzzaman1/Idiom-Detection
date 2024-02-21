@@ -1,7 +1,7 @@
 # Idiom-Detection
 This research pioneers advancements in Natural Language Processing (NLP) by introducing a deep neural network approach to address challenges in interpreting multi-word sentences, detecting idioms, and classifying text. Focusing on text classification, it evaluates various models, with BERT outperforming others with an F1 score of 0.7980 on the Dev Dataset. Noteworthy results include Linear SVM with Balanced Class achieving a high F1 score of 0.8457 on the Few-Shot Dataset and Multinomial Naive Bayes excelling with a score of 0.5284 on the Zero-Shot Dataset. These findings underscore the importance of diverse datasets for robust model training and contribute to the ongoing evolution of NLP technology.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RqiWLegUP--ByIJuySku3dwYM4Qq8oqU?usp=sharing&fbclid=IwAR1kpx0Tf6rRwajel9DB3RihpEq8dj284898Gx1v06fDzqNLKITFuUbqDXo)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L5YNwjAW66fxhDUFK45fH796QUF9jyxo?usp=sharing)
 
 ## EDA
 ![Visualizations of Labels for different datasets](https://github.com/amiruzzaman1/Idiom-Detection/assets/68743925/b23fb076-d1f3-47ab-b9e2-f030ce8da87f)
