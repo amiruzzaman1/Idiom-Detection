@@ -3,6 +3,14 @@ This research pioneers advancements in Natural Language Processing (NLP) by intr
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L5YNwjAW66fxhDUFK45fH796QUF9jyxo?usp=sharing)
 
+
+<center>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L5YNwjAW66fxhDUFK45fH796QUF9jyxo?usp=sharing)
+
+</center>
+
+
 ## EDA
 ![Visualizations of Labels for different datasets](https://github.com/amiruzzaman1/Idiom-Detection/assets/68743925/b23fb076-d1f3-47ab-b9e2-f030ce8da87f)
 
