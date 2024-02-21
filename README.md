@@ -1,14 +1,18 @@
 # Idiom-Detection
 This research pioneers advancements in Natural Language Processing (NLP) by introducing a deep neural network approach to address challenges in interpreting multi-word sentences, detecting idioms, and classifying text. Focusing on text classification, it evaluates various models, with BERT outperforming others with an F1 score of 0.7980 on the Dev Dataset. Noteworthy results include Linear SVM with Balanced Class achieving a high F1 score of 0.8457 on the Few-Shot Dataset and Multinomial Naive Bayes excelling with a score of 0.5284 on the Zero-Shot Dataset. These findings underscore the importance of diverse datasets for robust model training and contribute to the ongoing evolution of NLP technology.
 
+## Dataset Links
+
+- [Dev Dataset](https://raw.githubusercontent.com/H-TayyarMadabushi/AStitchInLanguageModels/main/Dataset/Task1/SubTaskA/EN/ContextExcluded_IdiomExcluded/dev.csv)
+- [Test Dataset](https://raw.githubusercontent.com/H-TayyarMadabushi/AStitchInLanguageModels/main/Dataset/Task1/SubTaskA/EN/ContextExcluded_IdiomExcluded/test.csv)
+- [Train Few-Shot Dataset](https://raw.githubusercontent.com/H-TayyarMadabushi/AStitchInLanguageModels/main/Dataset/Task1/SubTaskA/EN/ContextExcluded_IdiomExcluded/train_few_shot.csv)
+- [Train One-Shot Dataset](https://raw.githubusercontent.com/H-TayyarMadabushi/AStitchInLanguageModels/main/Dataset/Task1/SubTaskA/EN/ContextExcluded_IdiomExcluded/train_one_shot.csv)
+- [Train Zero-Shot Dataset](https://raw.githubusercontent.com/H-TayyarMadabushi/AStitchInLanguageModels/main/Dataset/Task1/SubTaskA/EN/ContextExcluded_IdiomExcluded/train_zero_shot.csv)
+
+
+## Colab Notebook (Click to View)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L5YNwjAW66fxhDUFK45fH796QUF9jyxo?usp=sharing)
 
-
-<center>
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L5YNwjAW66fxhDUFK45fH796QUF9jyxo?usp=sharing)
-
-</center>
 
 
 ## EDA
